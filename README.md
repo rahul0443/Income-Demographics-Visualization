@@ -37,13 +37,7 @@ This project explores the U.S. Census Adult Income dataset to uncover socio-econ
 ## 👤 Author
 
 **Rahul Muddhapuram**  
-Arizona State University  
-ASU ID: 1234423179
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 💬 Acknowledgments
-
-Special thanks to the CSE 578 instructional team for emphasizing ethical and effective data visualization practices.
